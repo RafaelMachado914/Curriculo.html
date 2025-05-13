@@ -1,0 +1,25 @@
+img{
+    border-radius:70px;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.932);
+}
+h1{
+    background-color:blue;
+    font-family: sans-serif ;
+    color: aliceblue;
+}
+h2{
+    background-color:blue;
+    font-family:sans-serif;
+    color: aliceblue;
+}
+p{
+    font-family:sans-serif;
+    font-weight: 200;
+    color: aliceblue;
+}
+li{
+    color: aliceblue;
+    font-family: sans-serif;
+}
