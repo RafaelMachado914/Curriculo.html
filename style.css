@@ -4,10 +4,11 @@ img{
     0px 0px 15px cyan inset;
 }
 body{
-    background-color: rgba(0, 0, 0, 0.932);
+    background: linear-gradient(to bottom, #242323, #225e6d);
 }
 h1{
     background-color:cyan;
+    border-radius: 15px;
     font-family: sans-serif ;
     color: rgb(233, 221, 221);
     text-shadow:
@@ -17,6 +18,7 @@ h1{
 }
 h2{
     background-color:cyan;
+    border-radius: 15px;                        
     font-family:sans-serif;
     color: rgb(233, 221, 221);
     text-shadow:
