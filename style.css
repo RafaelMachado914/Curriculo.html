@@ -1,14 +1,17 @@
 img{
     border: 3px solid cyan;
+    border-radius: 10px;
     box-shadow: 0px 0px 15px cyan,
     0px 0px 15px cyan inset;
 }
 body{
-    background: linear-gradient(to bottom, #242323, #225e6d);
+    background: linear-gradient(to right, #0f0f0f,#102c33,#13363f, #225e6d);
 }
 h1{
     background-color:cyan;
     border-radius: 15px;
+    padding: 10px 20px;
+    display: inline-block;
     font-family: sans-serif ;
     color: rgb(233, 221, 221);
     text-shadow:
@@ -18,7 +21,9 @@ h1{
 }
 h2{
     background-color:cyan;
-    border-radius: 15px;                        
+    border-radius: 15px;   
+    padding: 10px 20px; 
+    display: inline-block;                    
     font-family:sans-serif;
     color: rgb(233, 221, 221);
     text-shadow:
@@ -28,6 +33,7 @@ h2{
 
 }
 p{
+    font-size: 110%;
     font-family:sans-serif;
     font-weight: 200;
     color: aliceblue;
@@ -35,4 +41,7 @@ p{
 li{
     color: aliceblue;
     font-family: sans-serif;
+}
+fieldset{
+    color: rgb(27, 175, 175);
 }
