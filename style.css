@@ -5,7 +5,9 @@ img{
     0px 0px 15px #A60311 inset;
 }
 body{
-    background: linear-gradient(to right, #010101);
+background-color: #010101;
+background-image: url(http://www.transparenttextures.com/patterns/binding-dark.png);
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 h1{
     background-color:#A60311;
