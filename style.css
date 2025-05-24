@@ -45,3 +45,8 @@ li{
 fieldset{
     color: rgb(27, 175, 175);
 }
+.cl-center-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
